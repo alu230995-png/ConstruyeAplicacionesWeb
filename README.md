@@ -8,3 +8,6 @@ CAweb2.html <br>
 
 CAweb3.html <br>
 <img width="480" height="462" alt="image" src="https://github.com/user-attachments/assets/ce10abd1-4e3e-487c-867e-ab6e5ac995f7" />
+
+CAweb3.html <br>
+<img width="503" height="377" alt="Captura de pantalla 2025-09-08 180338" src="https://github.com/user-attachments/assets/360500b0-9260-4db9-88ea-0ab011c3f3aa" />
