@@ -1,0 +1,42 @@
+#cuerpo {
+    background-color: antiquewhite;
+}
+#titulo1 {
+    font-size: 60px;
+    text-align: center;
+    color:brown
+}
+#titulo2 {
+    font-size: 40px;
+    text-align:left;
+    color:burlywood
+}
+#titulo3 {
+    font-size: 30px;
+    text-align: right;
+    color:burlywood
+}
+#titulo4 {
+    font-size: 30px;
+    text-align:end;
+    color:burlywood
+}
+#titulo5 {
+    font-size: 30px;
+    text-align:start;
+    color:burlywood
+}
+#titulo6 {
+    font-size: 10px;
+    text-align:center;
+    color:beige
+}
+#mydiv{
+    background-color: darkslategrey;
+    width: 400px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+
+

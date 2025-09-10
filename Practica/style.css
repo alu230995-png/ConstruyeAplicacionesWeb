@@ -1,0 +1,32 @@
+#mybody {
+    background-color: deepskyblue;
+}
+#myh1 {
+    color: orange;
+    text-align: center;
+    font-size: 40; 
+}
+
+#myh2 {
+    text-align: center;
+}
+
+.biografia {
+    background-color: bisque;
+    max-width: 400px;
+    margin: auto;
+    padding: 20;
+    border-radius: 10px;
+}
+
+.dato {
+    margin: 15px;
+    font-size: 25px;
+}.etiqueta {
+    font-weight: bold;
+    color: dimgrey;
+}
+
+.valor {
+    color: black;
+}
