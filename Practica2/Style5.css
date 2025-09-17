@@ -1,0 +1,16 @@
+.text {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: brown;
+}
+.titulo1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    text-align: center;
+}
+.divbody {
+    background-color: antiquewhite;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
